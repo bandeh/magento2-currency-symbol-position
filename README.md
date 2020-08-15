@@ -5,7 +5,7 @@ When you work for a project, you are required to move the currency symbol from l
 
 Under your root folder, run the following command lines:
 
-- composer require php-cuong/magento2-currency-symbol-position
+- composer require php-cuong/magento2-currency-symbol-position-jam
 - php bin/magento setup:upgrade --keep-generated
 - php bin/magento setup:di:compile
 - php bin/magento cache:flush
